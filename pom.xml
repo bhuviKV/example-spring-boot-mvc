@@ -70,7 +70,7 @@
             <scope>runtime</scope>
         </dependency>
 
-        <!-- Guava library -->
+        <!-- Guava lib -->
 
         <dependency>
             <groupId>com.google.guava</groupId>
