@@ -1,4 +1,4 @@
-Example Spring Boot MVC Application
+Example Spring Boot MVC Application chek the commit status
 ===================================
 
 The article: [http://kielczewski.eu/2014/04/spring-boot-mvc-application/](http://kielczewski.eu/2014/04/spring-boot-mvc-application/)
