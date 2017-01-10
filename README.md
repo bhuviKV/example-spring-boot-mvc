@@ -1,5 +1,6 @@
-Example Spring Boot MVC Application chek the commit status
+Example Spring Boot MVC Application chek the commit status check now
 ===================================
+test to commits it will work..i think
 
 The article: [http://kielczewski.eu/2014/04/spring-boot-mvc-application/](http://kielczewski.eu/2014/04/spring-boot-mvc-application/)
 
