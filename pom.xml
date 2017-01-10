@@ -26,7 +26,7 @@
 
     <dependencies>
 
-        <!-- Spring Boot -->
+        <!-- Spring Boot 1-->
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -80,7 +80,7 @@
             <version>${mysql-connector-java.version}</version>
         </dependency>
 
-        <!-- Guava -->
+        <!-- Guava lib -->
 
         <dependency>
             <groupId>com.google.guava</groupId>
